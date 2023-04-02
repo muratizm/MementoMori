@@ -9,5 +9,5 @@
 
 
 
-Game Developer, Game Design : Murat Beder - Utkan Çelik
-Writer, Music Artist : Özhan Taşdemir, Berkay Özcan
+## Game Developer, Game Design : Murat Beder - Utkan Çelik
+## Writer, Music Artist : Özhan Taşdemir, Berkay Özcan
